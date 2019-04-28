@@ -1,8 +1,8 @@
 /******************************************************************
   Created with PROGRAMINO IDE for Arduino - 28.04.2019 16:14:49
-  Project     :
+  Project     :plateau de jeu connecté
   Libraries   :
-  Author      :
+  Author      :Dimitri(beaucoup) et Egone(juste les idees donc pas pour l'instant mais quand meme)
   Description :
 ******************************************************************/
 
